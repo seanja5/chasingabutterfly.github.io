@@ -1,3 +1,5 @@
+"Black background, spooky atmosphere. White sketch line art of a human figure or scene. Figure’s face is vague and hard to make out. White lines on black so the sketch stands out clearly. Consistent sketch style across all images."
+
 1. index.jpeg
 Create an image with a black, spooky background. White sketch line art of a lone figure in thick fog, a black butterfly on their shoulder. Mist and a faint path ahead. The figure's face is vague and hard to make out. White lines on black so the sketch stands out clearly. Consistent sketch style. Landscape orientation, 16:9, and jpeg format, make sure to save with the file name provided.
 
