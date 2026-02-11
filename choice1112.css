@@ -2,10 +2,11 @@ body {
     background: linear-gradient(to bottom, #2a2a2a 0%, #0a0a0a 100%);
     color: #c90000;
     font-family: Georgia, serif;
-    margin: 0;
-    padding: 24pt;
+    padding-top: 24pt;
+    padding-right: 24pt;
+    padding-bottom: 24pt;
+    padding-left: 24pt;
     text-align: center;
-    min-height: 100vh;
 }
 
 header {
@@ -15,35 +16,44 @@ header {
 h1 {
     font-size: 30pt;
     letter-spacing: 9pt;
-    margin: 0;
-    color: #c90000;
 }
 
 img {
     display: block;
-    margin: 24pt auto;
+    margin-top: 24pt;
+    margin-right: auto;
+    margin-bottom: 24pt;
+    margin-left: auto;
     max-width: 90%;
     max-height: 400px;
 }
 
 p {
     max-width: 500px;
-    margin: 24pt auto;
+    margin-top: 24pt;
+    margin-right: auto;
+    margin-bottom: 24pt;
+    margin-left: auto;
     line-height: 1.6;
-    color: #c90000;
 }
 
 a {
     display: block;
-    width: 100%;
     max-width: 320px;
-    margin: 24pt auto;
-    padding: 12pt 18pt;
+    margin-top: 24pt;
+    margin-right: auto;
+    margin-bottom: 24pt;
+    margin-left: auto;
+    padding-top: 12pt;
+    padding-right: 18pt;
+    padding-bottom: 12pt;
+    padding-left: 18pt;
     color: #c90000;
     background: transparent;
-    border: 1px solid #c90000;
-    border-radius: 8px;
     text-decoration: none;
+    border: solid #c90000;
+    border-width: 1px;
+    border-radius: 8px;
     transition: border-color 0.2s;
 }
 
